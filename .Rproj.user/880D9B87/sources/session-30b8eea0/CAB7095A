@@ -1,0 +1,28 @@
+{
+    "id": "CAB7095A",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1677121684999.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "b83c125a6663422486a4573545ec37f0",
+        "name": "presidents",
+        "title": "presidents",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 206158430255,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677121684999,
+    "read_only": false,
+    "read_only_alternatives": []
+}
